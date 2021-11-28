@@ -1,6 +1,6 @@
-https://youtu.be/Vt91tEyPcU4
+https://youtu.be/UCGToazTlgmw9GbF_tu8nUzA
 .telegram=rmdgimang
 
-from.https://youtu.be/Vt91tEyPcU4
+from.https://youtu.be/UCGToazTlgmw9GbF_tu8nUzA
 to{telegram}
 ssh:google
